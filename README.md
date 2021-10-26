@@ -1,7 +1,6 @@
   HELLO THERE! Eu sou o Marco Castellani.
 
 - 🌱 Estudante de Engenharia de Software 
-- 🌱 Estudante de Python para Análises de Dados
 - ⚡ Fun fact: Hobbies como Desenho, Modelagem 3D e Músico instrumentista com Saxofone
 
 
