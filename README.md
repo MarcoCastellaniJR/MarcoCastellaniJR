@@ -1,8 +1,12 @@
   HELLO THERE! Eu sou o Marco Castellani.
 
-- 🌱 Estudante de Engenharia de Software 
+- 🌱 Estudante de Engenharia de Software - Foco em C#
 - ⚡ Fun fact: Hobbies como Desenho, Modelagem 3D e Músico instrumentista com Saxofone
-
+- ⚒ Vasto conhecimento na área de Marcenaria moderna
+    - Uso de Catalog para Promob
+    - ERP 
+    - Sistemas de gerenciamento e otimização de corte ( Cut Pro )
+- ✔ Organização e e gerenciamento de pessoas e processos.
 
 <div> 
   <a href="https://instagram.com/marcocastellanii" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
