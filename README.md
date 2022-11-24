@@ -1,6 +1,7 @@
   HELLO THERE! Eu sou o Marco Castellani.
 
-- 🌱 Estudante de Engenharia de Software - Foco em C#
+- 🌱 Estudante de Engenharia de Software 
+     > Estudando BackEnd
 - ⚡ Fun fact: Hobbies como Desenho, Modelagem 3D e Músico instrumentista com Saxofone
 - ⚒ Vasto conhecimento na área de Marcenaria moderna
     - Uso de Catalog para Promob
