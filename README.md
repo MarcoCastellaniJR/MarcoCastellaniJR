@@ -1,12 +1,11 @@
-  HELLO THERE! Eu sou o Marco Castellani.
+  HELLO THERE! My name is Marco Castellani.
 
-- 🌱 Estudante de Engenharia de Software 
-     > Estudando BackEnd
-- ⚡ Fun fact: Hobbies como Desenho, Modelagem 3D e Músico instrumentista com Saxofone
-- ⚒ Vasto conhecimento na área de Marcenaria moderna
-    - Uso de Catalog para Promob
-    - ERP 
-    - Sistemas de gerenciamento e otimização de corte ( Cut Pro )
+- Ti Student - analysis and systems development  
+     - Focus on BackEnd
+     - Make some codes on arduino plataform and create a eletric drums
+- Fun fact: I am a 3D modeller and love drawning, i have make some tatto into myself and some friends, i play saxofone and flute
+- Today i work with SketchUp 3D for fornitures business
+    - Promob - Almos all the modules and dev e Suporte áreas
 
 <div> 
   <a href = "mailto:marcocastellanictt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
